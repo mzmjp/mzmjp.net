@@ -1,0 +1,7 @@
+#Mac
+.DS_Store
+
+#sass/Compass
+sass
+.sass-cache
+config.rb
