@@ -1,0 +1,303 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-",
+				"list-style"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"ita",
+				"italic"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"a",
+				"abbr	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/builds/PHP.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package li",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"snippe",
+				"Snippet: html"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kentaro/Sites/mzmjp.net/common/css/style.css",
+		"/Users/kentaro/Desktop/index.html",
+		"/Users/kentaro/Desktop/style.css",
+		"/Users/kentaro/Sites/mzmjp.net/.gitignore",
+		"/Users/kentaro/Sites/mzmjp.net/common/img/.gitignore",
+		"/Users/kentaro/Sites/mzmjp.net/common/.gitignore",
+		"/Users/kentaro/Sites/mzmjp.net/mzmjp.net.sublime-project",
+		"/Users/kentaro/Sites/mzmjp.net/.htaccess",
+		"/Users/kentaro/Sites/mzmjp-muji.tumblr.com/mzmjp.net.sublime-project",
+		"/Users/kentaro/Sites/mzmjp.net/index.html",
+		"/Users/kentaro/Library/Application Support/Sublime Text 2/Projects/mzmjp.net.sublime-project",
+		"/Users/kentaro/Sites/mzmjp.net/404.html",
+		"/Users/kentaro/Sites/mzmjp.net/common/.htaccess",
+		"/Users/kentaro/Sites/mzmjp.net/common/config.rb",
+		"/Users/kentaro/Sites/mzmjp-muji.tumblr.com/sass/style.scss",
+		"/Users/kentaro/Sites/mzmjp-muji.tumblr.com/page.html",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Users/kentaro/Sites/portfolio/files/index.html",
+		"/Users/kentaro/Sites/copy.js/js/copy.js",
+		"/Users/kentaro/Sites/copy.js/index.html",
+		"/Users/kentaro/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/kentaro/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/kentaro/Desktop/生放送力.txt",
+		"/Users/kentaro/Sites/mzmjp-muji.tumblr.com/index.html",
+		"/Users/kentaro/Sites/mzmjp-muji.tumblr.com/css/style.css",
+		"/Users/kentaro/Sites/mzmjp-muji.tumblr.com/config.rb",
+		"/Users/kentaro/Desktop/Work/mzmjp-muji.tumblr.com/sass/style.scss",
+		"/Users/kentaro/Desktop/Work/mzmjp-muji.tumblr.com/index.html",
+		"/Users/kentaro/Desktop/Work/mzmjp-muji.tumblr.com/style.css",
+		"/Users/kentaro/Desktop/optica.html",
+		"/Users/kentaro/Library/Application Support/Sublime Text 2/Packages/User/builds/PHP.sublime-build",
+		"/Users/kentaro/Library/Application Support/Sublime Text 2/Packages/User/php/hello.sublime-snippet",
+		"/Users/kentaro/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/kentaro/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/kentaro/Sites/mzmjp.net/README.md",
+		"/Users/kentaro/Sites/mzmjp.net/CHANGELOG.md",
+		"/Users/kentaro/Sites/mzmjp.net/common/sass/style.scss",
+		"/Users/kentaro/Sites/mzmjp.net/common/sass/_normalize.scss",
+		"/Users/kentaro/Sites/portfolio/files/config.rb",
+		"/Users/kentaro/Desktop/backup/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"highlight",
+			"Item",
+			"hhhhhhhhhhello",
+			"っっっっっっっhello",
+			"    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\t",
+			"^t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
