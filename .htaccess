@@ -5,3 +5,8 @@ AddType image/svg+xml .svgz
 
 #????????gzip??????
 AddOutputFilterByType DEFLATE text/html text/css application/x-javascript
+
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR,NC]
+RewriteCond %{HTTP_HOST} ^www.mzmjp\.net$
+RewriteRule ^(.*)$ https://mzmjp.net/$1 [R=301,L]
