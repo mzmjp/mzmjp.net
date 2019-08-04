@@ -5,8 +5,8 @@ Style Name: mzmjp.net
 Autohr: mzmjp
 URL: http://mzmjp.net/
 Created: 2013-03-17
-Modified: 2016-12-04
-Version: 1.2
+Modified: 2019-08-04
+Version: 1.2.1
 */
 
 @import "normalize";
@@ -39,6 +39,7 @@ Version: 1.2
 		text-align: center;
 		text-transform: uppercase;
 		font-weight: bold;
+		margin: 0 0 10px;
 		a {
 			&:link,
 			&:visited {
