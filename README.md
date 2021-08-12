@@ -5,5 +5,5 @@
 ## Sass（Dart Sass）のコンパイル
 
 ```
-sass sass/style.scss:css/style.css --watch --style compressed
+sass common/sass/style.scss:common/css/style.css --watch --style=compressed
 ```
