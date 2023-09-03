@@ -11,5 +11,8 @@ config.rb
 #Dreamweaver
 _notes/
 
+#VSCode
+mzmjp.net.code-workspace
+
 #Test_old
 test/

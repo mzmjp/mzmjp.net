@@ -1,6 +1,6 @@
 # mzmjp.net
 
-私のウェブサイト、mzmjp.net のソースコードです。
+私のウェブサイト、[https://mzmjp.net/](https://mzmjp.net/) のソースコードです。
 
 ## Sass（Dart Sass）のコンパイル
 
