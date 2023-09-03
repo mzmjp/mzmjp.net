@@ -12,7 +12,4 @@ config.rb
 _notes/
 
 #VSCode
-mzmjp.net.code-workspace
-
-#Test_old
-test/
+*.code-workspace
