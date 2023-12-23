@@ -1,0 +1,16 @@
+User-agent: *
+
+Disallow: /blog/2012/10/15/0028-121015/amp/
+Disallow: /blog/2013/01/18/0029-130118-%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E8%AA%8D%E8%A8%BC%E6%B8%88%E3%81%AE-adobe-%E8%A3%BD%E5%93%81%E3%81%AE%E8%B5%B7%E5%8B%95%E6%99%82%E3%81%AB%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB/
+Disallow: /blog/2013/05/28/0032-130528
+Disallow: /blog/2013/08/22/0037-130822/amp/
+Disallow: /blog/2013/08/27/0038-130827/amp/
+Disallow: /blog/2014/02/27/0041/amp/
+Disallow: /blog/2014/02/27/0041-140227-%E3%83%9B%E3%83%90%E3%83%BC%E3%81%97%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E3%82%8F%E3%81%8B%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E3%83%87%E3%82%B6/
+Disallow: /blog/2014/04/25/0042/amp/
+Disallow: /blog/2015/04/26/0052/amp/
+Disallow: /blog/2014/07/12/0044/amp/
+Disallow: /blog/2015/03/08/0050/amp/
+Disallow: /blog/2015/03/08/0051/amp/
+
+Sitemap: https://mzmjp.net/blog/sitemap.xml
